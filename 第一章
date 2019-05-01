@@ -1,0 +1,15 @@
+scikit-learn  
+  是一个开源项目，可以免费使用和分发
+  依赖于另外两个Pyhton包：NumPy和SciPy
+Jupyter Notebook
+  是可以在浏览器中运行代码的交互环境，支持多种编程语言
+NumPy
+  是Python科学计算的基础包之一。其功能包括多维数组、高级数学函数（如线性代数和傅里叶变换）、以及伪随机数生成器
+  NumPy的核心功能是ndarray类，即多维（n维）数组
+Scipy
+  是Python中用于科学计算的函数集合。它具有线性代数高级程序、数学函数优化、信号处理、特殊数学函数和统计分布等多项功能。
+  Scipy中最重要的是scipy.sparse：它可以给出稀疏矩阵（sparse matrice）
+matplotlib
+  是Python主要的可学会图库，功能为生成可视化内容，如折线图、直方图、散点图等
+pandas
+  用于处理和分析数据的Python库，基于DataFrame的数据结构。包含大量修改表格和操作表格的方法，还可以从许多文件格式和数据库中提取数据
